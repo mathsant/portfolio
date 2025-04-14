@@ -23,7 +23,7 @@ export default function Portfolio() {
             </Button>
           </a>
           <a
-            href="https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit"
+            href="https://www.linkedin.com/in/matheussilva-/"
             target="_blank"
             rel="noopener noreferrer"
           >
